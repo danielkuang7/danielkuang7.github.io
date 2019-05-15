@@ -139,23 +139,6 @@ padding:0px;
         text-transform: uppercase;
     }
 
-/*================================
-    SERVICES STYLES
-==================================*/
-#services {
-    background-color: rgba(237, 237, 237, 0.6);
-}
-
-    #services i {
-        font-size: 80px;
-        padding: 30px;
-        color: rgb(161, 118, 44);
-    }
-
-    #services h4 {
-        padding-bottom: 5px;
-        padding-top: 15px;
-    }
 /* =============================================================
   CLIENTS SECTION STYLES
  ============================================================ */
@@ -233,7 +216,7 @@ padding:0px;
 #works .work-wrapper {
     border: 2px solid rgb(161, 118, 44);
     padding: 10px;
-    margin: 10px 10px 10px 10px;
+    margin: 5px 5px 10px 5px;
 }
 
 #works img {
@@ -247,43 +230,8 @@ padding:0px;
         -webkit-filter: grayscale(0); /* FOR Google Chrome, Safari 6+ and  Opera 15+ */
         opacity: 1;
     }
-/* =============================================================
-  TESTIMONIAL SECTION STYLES
- ============================================================ */
-#testimonial {
-    background: url(../img/testimonial.jpg) no-repeat center center;
-    padding: 0;
-    -webkit-background-size: cover;
-    background-size: cover;
-    -moz-background-size: cover;
-    background-attachment: fixed;
-}
 
-    #testimonial .overlay {
-        background-color: rgba(0,0,0,0.7);
-        padding-top: 90px;
-        min-height: 300px;
-        color: #fff;
-        padding-top: 100px;
-        padding-bottom: 100px;
-    }
-/* =============================================================
-  TEAM SECTION STYLES
- ============================================================ */
-#team {
-    background-color: rgba(237, 237, 237, 1);
-}
 
-.media img {
-    margin-right: 40px;
-    max-height: 150px;
-    margin-bottom: 20px;
-    border: 2px solid rgb(161, 118, 44);
-}
-
-    .media img:hover {
-        opacity: 0.6;
-    }
 /* =============================================================
   CONTACT SECTION STYLES
  ============================================================ */
