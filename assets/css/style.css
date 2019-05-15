@@ -301,6 +301,16 @@ padding:0px;
         padding-top: 100px;
         padding-bottom: 100px;
     }
+
+    a.github{
+        font-size: 20px;
+    }
+
+    a.linkedin{
+        font-size: 20px;
+    }
+
+
 /* =============================================================
   FOOTER SECTION STYLES
  ============================================================ */
