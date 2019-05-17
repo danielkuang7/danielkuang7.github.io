@@ -219,18 +219,6 @@ padding:0px;
     margin: 5px 5px 10px 5px;
 }
 
-#works img {
-    filter: gray; /* FOR IE6-9 */
-    -webkit-filter: grayscale(1); /* FOR Google Chrome, Safari 6+ and  Opera 15+ */
-    opacity: 0.8;
-}
-
-    #works img:hover {
-        filter: none; /* FOR IE6-9 */
-        -webkit-filter: grayscale(0); /* FOR Google Chrome, Safari 6+ and  Opera 15+ */
-        opacity: 1;
-    }
-
 
 /* =============================================================
   CONTACT SECTION STYLES
