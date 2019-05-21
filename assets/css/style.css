@@ -214,9 +214,14 @@ padding:0px;
 
 #works .work-wrapper {
     border: 2px solid rgb(161, 118, 44);
-    padding: 10px;
+    padding: 2px;
     margin: 5px 5px 10px 5px;
 }
+
+img.img-responsive{
+    width: 150%;
+}
+
 
 
 /* =============================================================
