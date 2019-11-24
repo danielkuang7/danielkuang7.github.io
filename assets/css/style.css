@@ -107,35 +107,49 @@ padding:0px;
 
 #header {
     background: url(../img/home4.jpg) no-repeat center center;
-    padding: 0;
+    padding: 500px;
     -webkit-background-size: cover;
-    background-size: cover;
+    background-size: 850px 850px;
     -moz-background-size: cover;
-    background-attachment: fixed;
+    background-attachment: cover;
     color: #fff;
 }
 
-    #header .overlay {
+    /* #header .overlay {
         background-color: rgba(3, 3, 3, 0.6);
-        min-height: 700px;
-    }
+    }*/
 
     #header h1 {
         font-family: 'Josefin Slab', serif;
         line-height: 60px;
         font-size: 45px;
         font-weight: 900;
-        padding-top: 180px;
-        padding-bottom: 35px;
+        padding-top: 150px;
+        padding-bottom: 0;
         color: white;
     }
 
+    h2 {
+        font-size: 50px;
+        font-family: 'Baskervville', serif;
+    }
 
-    #header h4 {
-        line-height: 30px;
-        font-size: 12px;
-        padding-bottom: 40px;
-        text-transform: uppercase;
+    h3 {
+        font-size: 40px;
+    }
+
+    strong{
+        font-size: 50px; 
+
+    }
+
+    h4 {
+        font-size: 18px;
+         
+    }
+
+    h5 {
+        font-size: 30px;
     }
 
 /* =============================================================
@@ -152,7 +166,7 @@ padding:0px;
 }
 
     #clients .overlay {
-        background-color: rgba(0,0,0,0.5);
+        background-color: rgba(102, 28, 28, 0.5);
         padding-top: 90px;
         min-height: 300px;
         color: #fff;
@@ -192,8 +206,9 @@ padding:0px;
 
 #clients .thumbnail {
     background-color: transparent;
-    height: 100px;
+    height: 80px;
 }
+
 
 /* =============================================================
  PORTFOLIO SECTION STYLES
@@ -246,11 +261,11 @@ img.img-responsive{
     }
 
     a.github{
-        font-size: 20px;
+        font-size: 30px;
     }
 
     a.linkedin{
-        font-size: 20px;
+        font-size: 30px;
     }
 
 
