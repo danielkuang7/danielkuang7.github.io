@@ -2541,9 +2541,9 @@ output {
   border-radius: 4px;
   -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);
           box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);
-  -webkit-transition: border-color ease-in-out .15s, -webkit-box-shadow ease-in-out .15s;
-       -o-transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
-          transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+  -webkit-transition: border-color ease-in-out .5s, -webkit-box-shadow ease-in-out .5s;
+       -o-transition: border-color ease-in-out .5s, box-shadow ease-in-out .5s;
+          transition: border-color ease-in-out .5s, box-shadow ease-in-out .5s;
 }
 .form-control:focus {
   border-color: #66afe9;
@@ -4883,10 +4883,10 @@ a.badge:focus {
   line-height: 1.42857143;
   background-color: #fff;
   border: 1px solid #ddd;
-  border-radius: 4px;
-  -webkit-transition: border .2s ease-in-out;
-       -o-transition: border .2s ease-in-out;
-          transition: border .2s ease-in-out;
+  border-radius: 10px;
+  -webkit-transition: border .6s ease-in-out;
+       -o-transition: border .6s ease-in-out;
+          transition: border .6s ease-in-out;
 }
 .thumbnail > img,
 .thumbnail a > img {
