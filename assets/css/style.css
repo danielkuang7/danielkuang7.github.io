@@ -107,7 +107,7 @@ padding:0px;
 
 #header {
     background: url(../img/home4.jpg) no-repeat center center;
-    padding: 500px;
+    padding-top: 1050px;
     -webkit-background-size: cover;
     background-size: 850px 850px;
     -moz-background-size: cover;
@@ -115,8 +115,9 @@ padding:0px;
     color: #fff;
 }
 
-    /* #header .overlay {
-        background-color: rgba(3, 3, 3, 0.6);
+ /*#header .overlay {
+        background-color: rgba(3, 3, 3, 0.2);
+        min-height: 1000px;
     }*/
 
     #header h1 {
@@ -130,6 +131,7 @@ padding:0px;
     }
 
     h2 {
+        color: rgb(161, 118, 44);
         font-size: 50px;
         font-family: 'Baskervville', serif;
     }
@@ -145,11 +147,15 @@ padding:0px;
 
     h4 {
         font-size: 18px;
-         
+        color: rgb(117, 115, 115);
     }
 
     h5 {
         font-size: 30px;
+    }
+
+    h6 {
+        color: rgb(161, 118, 44);
     }
 
 /* =============================================================
@@ -231,11 +237,13 @@ padding:0px;
     border: 2px solid rgb(161, 118, 44);
     padding: 2px;
     margin: 5px 5px 10px 5px;
+    width: 100%;
 }
 
 img.img-responsive{
     width: 150%;
 }
+
 
 
 
@@ -260,12 +268,15 @@ img.img-responsive{
         padding-bottom: 100px;
     }
 
+   
+
     a.github{
         font-size: 30px;
+        padding: 100px;
     }
 
     a.linkedin{
-        font-size: 30px;
+        font-size: 30px;        
     }
 
 
