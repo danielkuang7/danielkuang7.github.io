@@ -140,11 +140,16 @@ padding:0px;
 
     h5 {
         font-size: 30px;
+
     }
 
     h6 {
         color: rgb(161, 118, 44);
         font-size: 15px;
+    }
+
+    .html5{
+     height: 10px;
     }
 
 /* =============================================================
@@ -196,7 +201,7 @@ padding:0px;
 
     .clients-carousel img {
         width: 100%;
-        height: 120px;
+        height: 70px;
     }
 
 #clients .thumbnail {
@@ -257,15 +262,8 @@ img.img-responsive{
         padding-bottom: 100px;
     }
 
-   
-
-    a.github{
-        font-size: 30px;
-        padding: 100px;
-    }
-
     a.linkedin{
-        font-size: 30px;        
+       padding-top: 10px;        
     }
 
 
