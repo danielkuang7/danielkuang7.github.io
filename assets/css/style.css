@@ -149,8 +149,11 @@ padding:0px;
     }
 
     .html5{
-     height: 10px;
+     height: 5px;
     }
+
+  
+
 
 /* =============================================================
   CLIENTS SECTION STYLES
@@ -200,7 +203,7 @@ padding:0px;
     }
 
     .clients-carousel img {
-        width: 100%;
+        width: 70%;
         height: 70px;
     }
 
