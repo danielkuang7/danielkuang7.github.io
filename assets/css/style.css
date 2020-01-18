@@ -106,7 +106,7 @@ padding:0px;
  ============================================================ */
 
 #header {
-    background: url(../img/home8.PNG) no-repeat center center;
+    background: url(../img/home9.png) no-repeat center center;
     padding-top: 900px;
     -webkit-background-size: cover;
     background-size: 850px 850px;
@@ -120,7 +120,7 @@ padding:0px;
         color: rgb(161, 118, 44);
         font-size: 50px;
         font-family: 'Baskervville', serif;
-        padding-top: 90px;
+        padding-top: 70px;
         padding-left: 50px;
     }
 
