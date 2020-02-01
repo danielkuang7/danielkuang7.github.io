@@ -107,20 +107,26 @@ padding:0px;
 
 #header {
     background: url(../img/home9.png) no-repeat center center;
-    padding-top: 900px;
+    padding-top: 600px;
     -webkit-background-size: cover;
-    background-size: 850px 850px;
+    background-size: 600px 600px;
     -moz-background-size: cover;
     background-attachment: cover;
     color: #fff;
 }
-
+    h1 {
+        color: rgb(161, 118, 44);
+        font-size: 50px;
+        font-family: 'Baskervville', serif;
+        padding-top: 70px;
+        padding-left: 50px;
+    }
 
     h2 {
         color: rgb(161, 118, 44);
         font-size: 50px;
         font-family: 'Baskervville', serif;
-        padding-top: 70px;
+        padding-top: 40px;
         padding-left: 50px;
     }
 
