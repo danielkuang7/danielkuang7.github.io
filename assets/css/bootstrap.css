@@ -1110,6 +1110,11 @@ img {
   vertical-align: middle;
   width: 500px;
 }
+
+.headimage{
+ padding-top: 20px;
+}
+
 .img-responsive,
 .thumbnail > img,
 .thumbnail a > img,
